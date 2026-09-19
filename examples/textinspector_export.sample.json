@@ -1,0 +1,16 @@
+{
+  "flat": {
+    "book_id": "DEMO_01",
+    "discipline": "Electrical Engineering",
+    "cefr": "C1",
+    "token_count": 210,
+    "sentence_count": 12,
+    "flesch_reading_ease": 28.4,
+    "evp_b2_tokens_pct": 13.2,
+    "evp_c1_tokens_pct": 7.8
+  },
+  "user": {
+    "email": "omitted-by-adapter@example.invalid"
+  },
+  "sample_text": "This field is intentionally omitted from normalized output."
+}

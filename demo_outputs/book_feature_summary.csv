@@ -1,0 +1,261 @@
+book_id,discipline,title,family,feature_id,feature_label,count,rate_per_10k_words,segment_coverage_pct,dispersion_evenness
+EE_Sadiku,Electrical Engineering,Fundamentals of Electric Circuits,function,meaning_access,Access to disciplinary meanings,3,31.414,40.0,0.3333
+EE_Sadiku,Electrical Engineering,Fundamentals of Electric Circuits,function,orientation,Orientation and navigation,1,10.471,20.0,0.0
+EE_Sadiku,Electrical Engineering,Fundamentals of Electric Circuits,function,rhetorical_relation,Rhetorical relations and importance,2,20.942,40.0,0.3876
+EE_Sadiku,Electrical Engineering,Fundamentals of Electric Circuits,function,background_knowledge,Background knowledge support,0,0.0,0.0,0.0
+EE_Sadiku,Electrical Engineering,Fundamentals of Electric Circuits,function,conceptual_continuity,Conceptual continuity,0,0.0,0.0,0.0
+EE_Sadiku,Electrical Engineering,Fundamentals of Electric Circuits,function,reader_engagement,Reader engagement and self-monitoring,0,0.0,0.0,0.0
+EE_Sadiku,Electrical Engineering,Fundamentals of Electric Circuits,function,multimodal_scaffolding,Multimodal and numeric scaffolding,0,0.0,0.0,0.0
+EE_Sadiku,Electrical Engineering,Fundamentals of Electric Circuits,grammar,modal_auxiliary,Modal auxiliaries,9,94.241,80.0,0.6761
+EE_Sadiku,Electrical Engineering,Fundamentals of Electric Circuits,grammar,epistemic_hedge,Epistemic hedges,2,20.942,20.0,0.0
+EE_Sadiku,Electrical Engineering,Fundamentals of Electric Circuits,grammar,booster,Boosters and emphasis,0,0.0,0.0,0.0
+EE_Sadiku,Electrical Engineering,Fundamentals of Electric Circuits,grammar,passive_candidate,Passive candidates,11,115.183,80.0,0.735
+EE_Sadiku,Electrical Engineering,Fundamentals of Electric Circuits,grammar,conditional_clause,Conditional clauses,1,10.471,20.0,0.0
+EE_Sadiku,Electrical Engineering,Fundamentals of Electric Circuits,grammar,concessive_clause,Concessive clauses,2,20.942,40.0,0.3876
+EE_Sadiku,Electrical Engineering,Fundamentals of Electric Circuits,grammar,causal_clause,Causal and result clauses,2,20.942,40.0,0.3876
+EE_Sadiku,Electrical Engineering,Fundamentals of Electric Circuits,grammar,relative_clause_candidate,Relative-clause candidates,10,104.712,100.0,0.6838
+EE_Sadiku,Electrical Engineering,Fundamentals of Electric Circuits,grammar,that_complement_candidate,That-clause candidates,2,20.942,40.0,0.3876
+EE_Sadiku,Electrical Engineering,Fundamentals of Electric Circuits,grammar,to_infinitive,To-infinitive constructions,32,335.079,100.0,0.9203
+EE_Sadiku,Electrical Engineering,Fundamentals of Electric Circuits,grammar,ing_form_candidate,-ing form candidates,17,178.01,80.0,0.5203
+EE_Sadiku,Electrical Engineering,Fundamentals of Electric Circuits,grammar,existential_there,Existential there,0,0.0,0.0,0.0
+EE_Sadiku,Electrical Engineering,Fundamentals of Electric Circuits,grammar,extraposition_it,Extraposition with it,0,0.0,0.0,0.0
+EE_Sadiku,Electrical Engineering,Fundamentals of Electric Circuits,grammar,negation,Negation,4,41.885,40.0,0.2711
+EE_Sadiku,Electrical Engineering,Fundamentals of Electric Circuits,grammar,interrogative,Interrogatives,1,10.471,20.0,0.0
+EE_Sadiku,Electrical Engineering,Fundamentals of Electric Circuits,grammar,nominalisation_candidate,Nominalisation candidates,51,534.031,100.0,0.7958
+EE_Sadiku,Electrical Engineering,Fundamentals of Electric Circuits,grammar,coordination,Coordination,31,324.607,100.0,0.7753
+EE_Sadiku,Electrical Engineering,Fundamentals of Electric Circuits,grammar,endophoric_reference,Endophoric and cross-reference forms,2,20.942,40.0,0.3876
+EE_Sadiku,Electrical Engineering,Fundamentals of Electric Circuits,grammar,reader_reference,Reader reference,9,94.241,80.0,0.6315
+EE_Hambley,Electrical Engineering,Electrical Engineering: Principles and Applications,function,meaning_access,Access to disciplinary meanings,3,30.896,40.0,0.3333
+EE_Hambley,Electrical Engineering,Electrical Engineering: Principles and Applications,function,orientation,Orientation and navigation,2,20.597,40.0,0.3876
+EE_Hambley,Electrical Engineering,Electrical Engineering: Principles and Applications,function,rhetorical_relation,Rhetorical relations and importance,1,10.299,20.0,0.0
+EE_Hambley,Electrical Engineering,Electrical Engineering: Principles and Applications,function,background_knowledge,Background knowledge support,0,0.0,0.0,0.0
+EE_Hambley,Electrical Engineering,Electrical Engineering: Principles and Applications,function,conceptual_continuity,Conceptual continuity,0,0.0,0.0,0.0
+EE_Hambley,Electrical Engineering,Electrical Engineering: Principles and Applications,function,reader_engagement,Reader engagement and self-monitoring,0,0.0,0.0,0.0
+EE_Hambley,Electrical Engineering,Electrical Engineering: Principles and Applications,function,multimodal_scaffolding,Multimodal and numeric scaffolding,2,20.597,20.0,0.0
+EE_Hambley,Electrical Engineering,Electrical Engineering: Principles and Applications,grammar,modal_auxiliary,Modal auxiliaries,9,92.688,100.0,0.7278
+EE_Hambley,Electrical Engineering,Electrical Engineering: Principles and Applications,grammar,epistemic_hedge,Epistemic hedges,3,30.896,40.0,0.3333
+EE_Hambley,Electrical Engineering,Electrical Engineering: Principles and Applications,grammar,booster,Boosters and emphasis,0,0.0,0.0,0.0
+EE_Hambley,Electrical Engineering,Electrical Engineering: Principles and Applications,grammar,passive_candidate,Passive candidates,17,175.077,80.0,0.6699
+EE_Hambley,Electrical Engineering,Electrical Engineering: Principles and Applications,grammar,conditional_clause,Conditional clauses,5,51.493,60.0,0.5528
+EE_Hambley,Electrical Engineering,Electrical Engineering: Principles and Applications,grammar,concessive_clause,Concessive clauses,2,20.597,40.0,0.3876
+EE_Hambley,Electrical Engineering,Electrical Engineering: Principles and Applications,grammar,causal_clause,Causal and result clauses,3,30.896,60.0,0.5918
+EE_Hambley,Electrical Engineering,Electrical Engineering: Principles and Applications,grammar,relative_clause_candidate,Relative-clause candidates,15,154.48,80.0,0.7019
+EE_Hambley,Electrical Engineering,Electrical Engineering: Principles and Applications,grammar,that_complement_candidate,That-clause candidates,0,0.0,0.0,0.0
+EE_Hambley,Electrical Engineering,Electrical Engineering: Principles and Applications,grammar,to_infinitive,To-infinitive constructions,21,216.272,100.0,0.6437
+EE_Hambley,Electrical Engineering,Electrical Engineering: Principles and Applications,grammar,ing_form_candidate,-ing form candidates,26,267.765,100.0,0.6485
+EE_Hambley,Electrical Engineering,Electrical Engineering: Principles and Applications,grammar,existential_there,Existential there,0,0.0,0.0,0.0
+EE_Hambley,Electrical Engineering,Electrical Engineering: Principles and Applications,grammar,extraposition_it,Extraposition with it,0,0.0,0.0,0.0
+EE_Hambley,Electrical Engineering,Electrical Engineering: Principles and Applications,grammar,negation,Negation,4,41.195,40.0,0.2711
+EE_Hambley,Electrical Engineering,Electrical Engineering: Principles and Applications,grammar,interrogative,Interrogatives,0,0.0,0.0,0.0
+EE_Hambley,Electrical Engineering,Electrical Engineering: Principles and Applications,grammar,nominalisation_candidate,Nominalisation candidates,56,576.725,100.0,0.8469
+EE_Hambley,Electrical Engineering,Electrical Engineering: Principles and Applications,grammar,coordination,Coordination,28,288.363,100.0,0.7143
+EE_Hambley,Electrical Engineering,Electrical Engineering: Principles and Applications,grammar,endophoric_reference,Endophoric and cross-reference forms,3,30.896,60.0,0.5918
+EE_Hambley,Electrical Engineering,Electrical Engineering: Principles and Applications,grammar,reader_reference,Reader reference,9,92.688,80.0,0.6761
+EE_Sedra,Electrical Engineering,Microelectronic Circuits,function,meaning_access,Access to disciplinary meanings,2,20.45,40.0,0.3876
+EE_Sedra,Electrical Engineering,Microelectronic Circuits,function,orientation,Orientation and navigation,0,0.0,0.0,0.0
+EE_Sedra,Electrical Engineering,Microelectronic Circuits,function,rhetorical_relation,Rhetorical relations and importance,5,51.125,60.0,0.5528
+EE_Sedra,Electrical Engineering,Microelectronic Circuits,function,background_knowledge,Background knowledge support,0,0.0,0.0,0.0
+EE_Sedra,Electrical Engineering,Microelectronic Circuits,function,conceptual_continuity,Conceptual continuity,3,30.675,40.0,0.3333
+EE_Sedra,Electrical Engineering,Microelectronic Circuits,function,reader_engagement,Reader engagement and self-monitoring,0,0.0,0.0,0.0
+EE_Sedra,Electrical Engineering,Microelectronic Circuits,function,multimodal_scaffolding,Multimodal and numeric scaffolding,2,20.45,40.0,0.3876
+EE_Sedra,Electrical Engineering,Microelectronic Circuits,grammar,modal_auxiliary,Modal auxiliaries,19,194.274,100.0,0.7895
+EE_Sedra,Electrical Engineering,Microelectronic Circuits,grammar,epistemic_hedge,Epistemic hedges,1,10.225,20.0,0.0
+EE_Sedra,Electrical Engineering,Microelectronic Circuits,grammar,booster,Boosters and emphasis,4,40.9,40.0,0.2711
+EE_Sedra,Electrical Engineering,Microelectronic Circuits,grammar,passive_candidate,Passive candidates,18,184.049,100.0,0.7921
+EE_Sedra,Electrical Engineering,Microelectronic Circuits,grammar,conditional_clause,Conditional clauses,2,20.45,40.0,0.3876
+EE_Sedra,Electrical Engineering,Microelectronic Circuits,grammar,concessive_clause,Concessive clauses,0,0.0,0.0,0.0
+EE_Sedra,Electrical Engineering,Microelectronic Circuits,grammar,causal_clause,Causal and result clauses,13,132.924,80.0,0.6433
+EE_Sedra,Electrical Engineering,Microelectronic Circuits,grammar,relative_clause_candidate,Relative-clause candidates,19,194.274,100.0,0.707
+EE_Sedra,Electrical Engineering,Microelectronic Circuits,grammar,that_complement_candidate,That-clause candidates,0,0.0,0.0,0.0
+EE_Sedra,Electrical Engineering,Microelectronic Circuits,grammar,to_infinitive,To-infinitive constructions,21,214.724,100.0,0.8612
+EE_Sedra,Electrical Engineering,Microelectronic Circuits,grammar,ing_form_candidate,-ing form candidates,26,265.849,100.0,0.7947
+EE_Sedra,Electrical Engineering,Microelectronic Circuits,grammar,existential_there,Existential there,1,10.225,20.0,0.0
+EE_Sedra,Electrical Engineering,Microelectronic Circuits,grammar,extraposition_it,Extraposition with it,0,0.0,0.0,0.0
+EE_Sedra,Electrical Engineering,Microelectronic Circuits,grammar,negation,Negation,3,30.675,60.0,0.5918
+EE_Sedra,Electrical Engineering,Microelectronic Circuits,grammar,interrogative,Interrogatives,0,0.0,0.0,0.0
+EE_Sedra,Electrical Engineering,Microelectronic Circuits,grammar,nominalisation_candidate,Nominalisation candidates,37,378.323,100.0,0.806
+EE_Sedra,Electrical Engineering,Microelectronic Circuits,grammar,coordination,Coordination,22,224.949,100.0,0.7892
+EE_Sedra,Electrical Engineering,Microelectronic Circuits,grammar,endophoric_reference,Endophoric and cross-reference forms,7,71.575,60.0,0.3376
+EE_Sedra,Electrical Engineering,Microelectronic Circuits,grammar,reader_reference,Reader reference,7,71.575,80.0,0.6358
+EE_Oppenheim,Electrical Engineering,Signals and Systems,function,meaning_access,Access to disciplinary meanings,5,53.533,80.0,0.6838
+EE_Oppenheim,Electrical Engineering,Signals and Systems,function,orientation,Orientation and navigation,2,21.413,40.0,0.3876
+EE_Oppenheim,Electrical Engineering,Signals and Systems,function,rhetorical_relation,Rhetorical relations and importance,3,32.12,60.0,0.5918
+EE_Oppenheim,Electrical Engineering,Signals and Systems,function,background_knowledge,Background knowledge support,0,0.0,0.0,0.0
+EE_Oppenheim,Electrical Engineering,Signals and Systems,function,conceptual_continuity,Conceptual continuity,0,0.0,0.0,0.0
+EE_Oppenheim,Electrical Engineering,Signals and Systems,function,reader_engagement,Reader engagement and self-monitoring,0,0.0,0.0,0.0
+EE_Oppenheim,Electrical Engineering,Signals and Systems,function,multimodal_scaffolding,Multimodal and numeric scaffolding,0,0.0,0.0,0.0
+EE_Oppenheim,Electrical Engineering,Signals and Systems,grammar,modal_auxiliary,Modal auxiliaries,12,128.48,100.0,0.8333
+EE_Oppenheim,Electrical Engineering,Signals and Systems,grammar,epistemic_hedge,Epistemic hedges,3,32.12,40.0,0.3333
+EE_Oppenheim,Electrical Engineering,Signals and Systems,grammar,booster,Boosters and emphasis,0,0.0,0.0,0.0
+EE_Oppenheim,Electrical Engineering,Signals and Systems,grammar,passive_candidate,Passive candidates,19,203.426,100.0,0.8254
+EE_Oppenheim,Electrical Engineering,Signals and Systems,grammar,conditional_clause,Conditional clauses,1,10.707,20.0,0.0
+EE_Oppenheim,Electrical Engineering,Signals and Systems,grammar,concessive_clause,Concessive clauses,3,32.12,60.0,0.5918
+EE_Oppenheim,Electrical Engineering,Signals and Systems,grammar,causal_clause,Causal and result clauses,3,32.12,60.0,0.5918
+EE_Oppenheim,Electrical Engineering,Signals and Systems,grammar,relative_clause_candidate,Relative-clause candidates,11,117.773,60.0,0.5834
+EE_Oppenheim,Electrical Engineering,Signals and Systems,grammar,that_complement_candidate,That-clause candidates,1,10.707,20.0,0.0
+EE_Oppenheim,Electrical Engineering,Signals and Systems,grammar,to_infinitive,To-infinitive constructions,14,149.893,80.0,0.7143
+EE_Oppenheim,Electrical Engineering,Signals and Systems,grammar,ing_form_candidate,-ing form candidates,25,267.666,80.0,0.7102
+EE_Oppenheim,Electrical Engineering,Signals and Systems,grammar,existential_there,Existential there,1,10.707,20.0,0.0
+EE_Oppenheim,Electrical Engineering,Signals and Systems,grammar,extraposition_it,Extraposition with it,1,10.707,20.0,0.0
+EE_Oppenheim,Electrical Engineering,Signals and Systems,grammar,negation,Negation,4,42.827,40.0,0.2711
+EE_Oppenheim,Electrical Engineering,Signals and Systems,grammar,interrogative,Interrogatives,0,0.0,0.0,0.0
+EE_Oppenheim,Electrical Engineering,Signals and Systems,grammar,nominalisation_candidate,Nominalisation candidates,57,610.278,100.0,0.8543
+EE_Oppenheim,Electrical Engineering,Signals and Systems,grammar,coordination,Coordination,34,364.026,100.0,0.6972
+EE_Oppenheim,Electrical Engineering,Signals and Systems,grammar,endophoric_reference,Endophoric and cross-reference forms,1,10.707,20.0,0.0
+EE_Oppenheim,Electrical Engineering,Signals and Systems,grammar,reader_reference,Reader reference,10,107.066,80.0,0.6838
+EE_Mano,Electrical Engineering,Digital Logic and Computer Design,function,meaning_access,Access to disciplinary meanings,2,20.408,40.0,0.3876
+EE_Mano,Electrical Engineering,Digital Logic and Computer Design,function,orientation,Orientation and navigation,0,0.0,0.0,0.0
+EE_Mano,Electrical Engineering,Digital Logic and Computer Design,function,rhetorical_relation,Rhetorical relations and importance,2,20.408,40.0,0.3876
+EE_Mano,Electrical Engineering,Digital Logic and Computer Design,function,background_knowledge,Background knowledge support,0,0.0,0.0,0.0
+EE_Mano,Electrical Engineering,Digital Logic and Computer Design,function,conceptual_continuity,Conceptual continuity,0,0.0,0.0,0.0
+EE_Mano,Electrical Engineering,Digital Logic and Computer Design,function,reader_engagement,Reader engagement and self-monitoring,0,0.0,0.0,0.0
+EE_Mano,Electrical Engineering,Digital Logic and Computer Design,function,multimodal_scaffolding,Multimodal and numeric scaffolding,2,20.408,40.0,0.3876
+EE_Mano,Electrical Engineering,Digital Logic and Computer Design,grammar,modal_auxiliary,Modal auxiliaries,14,142.857,100.0,0.6727
+EE_Mano,Electrical Engineering,Digital Logic and Computer Design,grammar,epistemic_hedge,Epistemic hedges,1,10.204,20.0,0.0
+EE_Mano,Electrical Engineering,Digital Logic and Computer Design,grammar,booster,Boosters and emphasis,0,0.0,0.0,0.0
+EE_Mano,Electrical Engineering,Digital Logic and Computer Design,grammar,passive_candidate,Passive candidates,29,295.918,100.0,0.6408
+EE_Mano,Electrical Engineering,Digital Logic and Computer Design,grammar,conditional_clause,Conditional clauses,8,81.633,80.0,0.625
+EE_Mano,Electrical Engineering,Digital Logic and Computer Design,grammar,concessive_clause,Concessive clauses,4,40.816,20.0,0.0
+EE_Mano,Electrical Engineering,Digital Logic and Computer Design,grammar,causal_clause,Causal and result clauses,1,10.204,20.0,0.0
+EE_Mano,Electrical Engineering,Digital Logic and Computer Design,grammar,relative_clause_candidate,Relative-clause candidates,10,102.041,100.0,0.7261
+EE_Mano,Electrical Engineering,Digital Logic and Computer Design,grammar,that_complement_candidate,That-clause candidates,1,10.204,20.0,0.0
+EE_Mano,Electrical Engineering,Digital Logic and Computer Design,grammar,to_infinitive,To-infinitive constructions,22,224.49,100.0,0.7449
+EE_Mano,Electrical Engineering,Digital Logic and Computer Design,grammar,ing_form_candidate,-ing form candidates,8,81.633,80.0,0.625
+EE_Mano,Electrical Engineering,Digital Logic and Computer Design,grammar,existential_there,Existential there,2,20.408,40.0,0.3876
+EE_Mano,Electrical Engineering,Digital Logic and Computer Design,grammar,extraposition_it,Extraposition with it,1,10.204,20.0,0.0
+EE_Mano,Electrical Engineering,Digital Logic and Computer Design,grammar,negation,Negation,3,30.612,40.0,0.3333
+EE_Mano,Electrical Engineering,Digital Logic and Computer Design,grammar,interrogative,Interrogatives,0,0.0,0.0,0.0
+EE_Mano,Electrical Engineering,Digital Logic and Computer Design,grammar,nominalisation_candidate,Nominalisation candidates,54,551.02,100.0,0.8645
+EE_Mano,Electrical Engineering,Digital Logic and Computer Design,grammar,coordination,Coordination,22,224.49,100.0,0.69
+EE_Mano,Electrical Engineering,Digital Logic and Computer Design,grammar,endophoric_reference,Endophoric and cross-reference forms,5,51.02,40.0,0.2254
+EE_Mano,Electrical Engineering,Digital Logic and Computer Design,grammar,reader_reference,Reader reference,2,20.408,20.0,0.0
+IR_Baylis,International Relations,The Globalization of World Politics,function,meaning_access,Access to disciplinary meanings,1,10.02,20.0,0.0
+IR_Baylis,International Relations,The Globalization of World Politics,function,orientation,Orientation and navigation,0,0.0,0.0,0.0
+IR_Baylis,International Relations,The Globalization of World Politics,function,rhetorical_relation,Rhetorical relations and importance,1,10.02,20.0,0.0
+IR_Baylis,International Relations,The Globalization of World Politics,function,background_knowledge,Background knowledge support,0,0.0,0.0,0.0
+IR_Baylis,International Relations,The Globalization of World Politics,function,conceptual_continuity,Conceptual continuity,0,0.0,0.0,0.0
+IR_Baylis,International Relations,The Globalization of World Politics,function,reader_engagement,Reader engagement and self-monitoring,0,0.0,0.0,0.0
+IR_Baylis,International Relations,The Globalization of World Politics,function,multimodal_scaffolding,Multimodal and numeric scaffolding,0,0.0,0.0,0.0
+IR_Baylis,International Relations,The Globalization of World Politics,grammar,modal_auxiliary,Modal auxiliaries,5,50.1,60.0,0.5528
+IR_Baylis,International Relations,The Globalization of World Politics,grammar,epistemic_hedge,Epistemic hedges,3,30.06,40.0,0.3333
+IR_Baylis,International Relations,The Globalization of World Politics,grammar,booster,Boosters and emphasis,1,10.02,20.0,0.0
+IR_Baylis,International Relations,The Globalization of World Politics,grammar,passive_candidate,Passive candidates,8,80.16,100.0,0.625
+IR_Baylis,International Relations,The Globalization of World Politics,grammar,conditional_clause,Conditional clauses,1,10.02,20.0,0.0
+IR_Baylis,International Relations,The Globalization of World Politics,grammar,concessive_clause,Concessive clauses,1,10.02,20.0,0.0
+IR_Baylis,International Relations,The Globalization of World Politics,grammar,causal_clause,Causal and result clauses,3,30.06,60.0,0.5918
+IR_Baylis,International Relations,The Globalization of World Politics,grammar,relative_clause_candidate,Relative-clause candidates,19,190.381,100.0,0.8066
+IR_Baylis,International Relations,The Globalization of World Politics,grammar,that_complement_candidate,That-clause candidates,1,10.02,20.0,0.0
+IR_Baylis,International Relations,The Globalization of World Politics,grammar,to_infinitive,To-infinitive constructions,28,280.561,100.0,0.8161
+IR_Baylis,International Relations,The Globalization of World Politics,grammar,ing_form_candidate,-ing form candidates,20,200.401,100.0,0.9209
+IR_Baylis,International Relations,The Globalization of World Politics,grammar,existential_there,Existential there,5,50.1,60.0,0.4523
+IR_Baylis,International Relations,The Globalization of World Politics,grammar,extraposition_it,Extraposition with it,1,10.02,20.0,0.0
+IR_Baylis,International Relations,The Globalization of World Politics,grammar,negation,Negation,8,80.16,60.0,0.5761
+IR_Baylis,International Relations,The Globalization of World Politics,grammar,interrogative,Interrogatives,0,0.0,0.0,0.0
+IR_Baylis,International Relations,The Globalization of World Politics,grammar,nominalisation_candidate,Nominalisation candidates,64,641.283,100.0,0.8335
+IR_Baylis,International Relations,The Globalization of World Politics,grammar,coordination,Coordination,33,330.661,100.0,0.7529
+IR_Baylis,International Relations,The Globalization of World Politics,grammar,endophoric_reference,Endophoric and cross-reference forms,0,0.0,0.0,0.0
+IR_Baylis,International Relations,The Globalization of World Politics,grammar,reader_reference,Reader reference,0,0.0,0.0,0.0
+IR_Goldstein,International Relations,"International Relations, Brief Edition",function,meaning_access,Access to disciplinary meanings,3,30.06,40.0,0.3333
+IR_Goldstein,International Relations,"International Relations, Brief Edition",function,orientation,Orientation and navigation,0,0.0,0.0,0.0
+IR_Goldstein,International Relations,"International Relations, Brief Edition",function,rhetorical_relation,Rhetorical relations and importance,1,10.02,20.0,0.0
+IR_Goldstein,International Relations,"International Relations, Brief Edition",function,background_knowledge,Background knowledge support,0,0.0,0.0,0.0
+IR_Goldstein,International Relations,"International Relations, Brief Edition",function,conceptual_continuity,Conceptual continuity,0,0.0,0.0,0.0
+IR_Goldstein,International Relations,"International Relations, Brief Edition",function,reader_engagement,Reader engagement and self-monitoring,0,0.0,0.0,0.0
+IR_Goldstein,International Relations,"International Relations, Brief Edition",function,multimodal_scaffolding,Multimodal and numeric scaffolding,0,0.0,0.0,0.0
+IR_Goldstein,International Relations,"International Relations, Brief Edition",grammar,modal_auxiliary,Modal auxiliaries,13,130.261,100.0,0.6875
+IR_Goldstein,International Relations,"International Relations, Brief Edition",grammar,epistemic_hedge,Epistemic hedges,6,60.12,60.0,0.5141
+IR_Goldstein,International Relations,"International Relations, Brief Edition",grammar,booster,Boosters and emphasis,0,0.0,0.0,0.0
+IR_Goldstein,International Relations,"International Relations, Brief Edition",grammar,passive_candidate,Passive candidates,8,80.16,60.0,0.5761
+IR_Goldstein,International Relations,"International Relations, Brief Edition",grammar,conditional_clause,Conditional clauses,5,50.1,60.0,0.5528
+IR_Goldstein,International Relations,"International Relations, Brief Edition",grammar,concessive_clause,Concessive clauses,2,20.04,20.0,0.0
+IR_Goldstein,International Relations,"International Relations, Brief Edition",grammar,causal_clause,Causal and result clauses,4,40.08,60.0,0.5323
+IR_Goldstein,International Relations,"International Relations, Brief Edition",grammar,relative_clause_candidate,Relative-clause candidates,12,120.24,100.0,0.7875
+IR_Goldstein,International Relations,"International Relations, Brief Edition",grammar,that_complement_candidate,That-clause candidates,0,0.0,0.0,0.0
+IR_Goldstein,International Relations,"International Relations, Brief Edition",grammar,to_infinitive,To-infinitive constructions,43,430.862,100.0,0.8644
+IR_Goldstein,International Relations,"International Relations, Brief Edition",grammar,ing_form_candidate,-ing form candidates,25,250.501,100.0,0.8103
+IR_Goldstein,International Relations,"International Relations, Brief Edition",grammar,existential_there,Existential there,0,0.0,0.0,0.0
+IR_Goldstein,International Relations,"International Relations, Brief Edition",grammar,extraposition_it,Extraposition with it,0,0.0,0.0,0.0
+IR_Goldstein,International Relations,"International Relations, Brief Edition",grammar,negation,Negation,13,130.261,80.0,0.6433
+IR_Goldstein,International Relations,"International Relations, Brief Edition",grammar,interrogative,Interrogatives,1,10.02,20.0,0.0
+IR_Goldstein,International Relations,"International Relations, Brief Edition",grammar,nominalisation_candidate,Nominalisation candidates,60,601.202,100.0,0.7459
+IR_Goldstein,International Relations,"International Relations, Brief Edition",grammar,coordination,Coordination,34,340.681,100.0,0.843
+IR_Goldstein,International Relations,"International Relations, Brief Edition",grammar,endophoric_reference,Endophoric and cross-reference forms,0,0.0,0.0,0.0
+IR_Goldstein,International Relations,"International Relations, Brief Edition",grammar,reader_reference,Reader reference,0,0.0,0.0,0.0
+IR_Mingst,International Relations,Essentials of International Relations,function,meaning_access,Access to disciplinary meanings,2,19.861,20.0,0.0
+IR_Mingst,International Relations,Essentials of International Relations,function,orientation,Orientation and navigation,0,0.0,0.0,0.0
+IR_Mingst,International Relations,Essentials of International Relations,function,rhetorical_relation,Rhetorical relations and importance,0,0.0,0.0,0.0
+IR_Mingst,International Relations,Essentials of International Relations,function,background_knowledge,Background knowledge support,0,0.0,0.0,0.0
+IR_Mingst,International Relations,Essentials of International Relations,function,conceptual_continuity,Conceptual continuity,0,0.0,0.0,0.0
+IR_Mingst,International Relations,Essentials of International Relations,function,reader_engagement,Reader engagement and self-monitoring,0,0.0,0.0,0.0
+IR_Mingst,International Relations,Essentials of International Relations,function,multimodal_scaffolding,Multimodal and numeric scaffolding,0,0.0,0.0,0.0
+IR_Mingst,International Relations,Essentials of International Relations,grammar,modal_auxiliary,Modal auxiliaries,9,89.374,80.0,0.6315
+IR_Mingst,International Relations,Essentials of International Relations,grammar,epistemic_hedge,Epistemic hedges,3,29.791,20.0,0.0
+IR_Mingst,International Relations,Essentials of International Relations,grammar,booster,Boosters and emphasis,5,49.652,60.0,0.5528
+IR_Mingst,International Relations,Essentials of International Relations,grammar,passive_candidate,Passive candidates,7,69.513,80.0,0.6358
+IR_Mingst,International Relations,Essentials of International Relations,grammar,conditional_clause,Conditional clauses,1,9.93,20.0,0.0
+IR_Mingst,International Relations,Essentials of International Relations,grammar,concessive_clause,Concessive clauses,0,0.0,0.0,0.0
+IR_Mingst,International Relations,Essentials of International Relations,grammar,causal_clause,Causal and result clauses,4,39.722,60.0,0.5323
+IR_Mingst,International Relations,Essentials of International Relations,grammar,relative_clause_candidate,Relative-clause candidates,10,99.305,100.0,0.7764
+IR_Mingst,International Relations,Essentials of International Relations,grammar,that_complement_candidate,That-clause candidates,0,0.0,0.0,0.0
+IR_Mingst,International Relations,Essentials of International Relations,grammar,to_infinitive,To-infinitive constructions,21,208.54,100.0,0.7143
+IR_Mingst,International Relations,Essentials of International Relations,grammar,ing_form_candidate,-ing form candidates,33,327.706,100.0,0.844
+IR_Mingst,International Relations,Essentials of International Relations,grammar,existential_there,Existential there,0,0.0,0.0,0.0
+IR_Mingst,International Relations,Essentials of International Relations,grammar,extraposition_it,Extraposition with it,0,0.0,0.0,0.0
+IR_Mingst,International Relations,Essentials of International Relations,grammar,negation,Negation,11,109.235,80.0,0.666
+IR_Mingst,International Relations,Essentials of International Relations,grammar,interrogative,Interrogatives,0,0.0,0.0,0.0
+IR_Mingst,International Relations,Essentials of International Relations,grammar,nominalisation_candidate,Nominalisation candidates,77,764.647,100.0,0.787
+IR_Mingst,International Relations,Essentials of International Relations,grammar,coordination,Coordination,36,357.498,100.0,0.7968
+IR_Mingst,International Relations,Essentials of International Relations,grammar,endophoric_reference,Endophoric and cross-reference forms,0,0.0,0.0,0.0
+IR_Mingst,International Relations,Essentials of International Relations,grammar,reader_reference,Reader reference,1,9.93,20.0,0.0
+IR_Dunne,International Relations,International Relations Theories: Discipline and Diversity,function,meaning_access,Access to disciplinary meanings,3,30.12,40.0,0.3333
+IR_Dunne,International Relations,International Relations Theories: Discipline and Diversity,function,orientation,Orientation and navigation,0,0.0,0.0,0.0
+IR_Dunne,International Relations,International Relations Theories: Discipline and Diversity,function,rhetorical_relation,Rhetorical relations and importance,3,30.12,40.0,0.3333
+IR_Dunne,International Relations,International Relations Theories: Discipline and Diversity,function,background_knowledge,Background knowledge support,0,0.0,0.0,0.0
+IR_Dunne,International Relations,International Relations Theories: Discipline and Diversity,function,conceptual_continuity,Conceptual continuity,0,0.0,0.0,0.0
+IR_Dunne,International Relations,International Relations Theories: Discipline and Diversity,function,reader_engagement,Reader engagement and self-monitoring,0,0.0,0.0,0.0
+IR_Dunne,International Relations,International Relations Theories: Discipline and Diversity,function,multimodal_scaffolding,Multimodal and numeric scaffolding,0,0.0,0.0,0.0
+IR_Dunne,International Relations,International Relations Theories: Discipline and Diversity,grammar,modal_auxiliary,Modal auxiliaries,12,120.482,80.0,0.5918
+IR_Dunne,International Relations,International Relations Theories: Discipline and Diversity,grammar,epistemic_hedge,Epistemic hedges,4,40.161,60.0,0.5323
+IR_Dunne,International Relations,International Relations Theories: Discipline and Diversity,grammar,booster,Boosters and emphasis,1,10.04,20.0,0.0
+IR_Dunne,International Relations,International Relations Theories: Discipline and Diversity,grammar,passive_candidate,Passive candidates,11,110.442,80.0,0.666
+IR_Dunne,International Relations,International Relations Theories: Discipline and Diversity,grammar,conditional_clause,Conditional clauses,4,40.161,60.0,0.5323
+IR_Dunne,International Relations,International Relations Theories: Discipline and Diversity,grammar,concessive_clause,Concessive clauses,2,20.08,40.0,0.3876
+IR_Dunne,International Relations,International Relations Theories: Discipline and Diversity,grammar,causal_clause,Causal and result clauses,4,40.161,40.0,0.3876
+IR_Dunne,International Relations,International Relations Theories: Discipline and Diversity,grammar,relative_clause_candidate,Relative-clause candidates,21,210.843,100.0,0.7818
+IR_Dunne,International Relations,International Relations Theories: Discipline and Diversity,grammar,that_complement_candidate,That-clause candidates,2,20.08,20.0,0.0
+IR_Dunne,International Relations,International Relations Theories: Discipline and Diversity,grammar,to_infinitive,To-infinitive constructions,38,381.526,100.0,0.716
+IR_Dunne,International Relations,International Relations Theories: Discipline and Diversity,grammar,ing_form_candidate,-ing form candidates,20,200.803,100.0,0.8064
+IR_Dunne,International Relations,International Relations Theories: Discipline and Diversity,grammar,existential_there,Existential there,0,0.0,0.0,0.0
+IR_Dunne,International Relations,International Relations Theories: Discipline and Diversity,grammar,extraposition_it,Extraposition with it,1,10.04,20.0,0.0
+IR_Dunne,International Relations,International Relations Theories: Discipline and Diversity,grammar,negation,Negation,10,100.402,100.0,0.7261
+IR_Dunne,International Relations,International Relations Theories: Discipline and Diversity,grammar,interrogative,Interrogatives,0,0.0,0.0,0.0
+IR_Dunne,International Relations,International Relations Theories: Discipline and Diversity,grammar,nominalisation_candidate,Nominalisation candidates,62,622.49,100.0,0.7494
+IR_Dunne,International Relations,International Relations Theories: Discipline and Diversity,grammar,coordination,Coordination,38,381.526,100.0,0.7316
+IR_Dunne,International Relations,International Relations Theories: Discipline and Diversity,grammar,endophoric_reference,Endophoric and cross-reference forms,1,10.04,20.0,0.0
+IR_Dunne,International Relations,International Relations Theories: Discipline and Diversity,grammar,reader_reference,Reader reference,3,30.12,40.0,0.3333
+IR_Blanton,International Relations,World Politics: Trend and Transformation,function,meaning_access,Access to disciplinary meanings,0,0.0,0.0,0.0
+IR_Blanton,International Relations,World Politics: Trend and Transformation,function,orientation,Orientation and navigation,0,0.0,0.0,0.0
+IR_Blanton,International Relations,World Politics: Trend and Transformation,function,rhetorical_relation,Rhetorical relations and importance,2,20.141,40.0,0.3876
+IR_Blanton,International Relations,World Politics: Trend and Transformation,function,background_knowledge,Background knowledge support,0,0.0,0.0,0.0
+IR_Blanton,International Relations,World Politics: Trend and Transformation,function,conceptual_continuity,Conceptual continuity,0,0.0,0.0,0.0
+IR_Blanton,International Relations,World Politics: Trend and Transformation,function,reader_engagement,Reader engagement and self-monitoring,0,0.0,0.0,0.0
+IR_Blanton,International Relations,World Politics: Trend and Transformation,function,multimodal_scaffolding,Multimodal and numeric scaffolding,0,0.0,0.0,0.0
+IR_Blanton,International Relations,World Politics: Trend and Transformation,grammar,modal_auxiliary,Modal auxiliaries,9,90.634,60.0,0.3814
+IR_Blanton,International Relations,World Politics: Trend and Transformation,grammar,epistemic_hedge,Epistemic hedges,1,10.07,20.0,0.0
+IR_Blanton,International Relations,World Politics: Trend and Transformation,grammar,booster,Boosters and emphasis,1,10.07,20.0,0.0
+IR_Blanton,International Relations,World Politics: Trend and Transformation,grammar,passive_candidate,Passive candidates,7,70.493,80.0,0.6358
+IR_Blanton,International Relations,World Politics: Trend and Transformation,grammar,conditional_clause,Conditional clauses,3,30.211,60.0,0.5918
+IR_Blanton,International Relations,World Politics: Trend and Transformation,grammar,concessive_clause,Concessive clauses,0,0.0,0.0,0.0
+IR_Blanton,International Relations,World Politics: Trend and Transformation,grammar,causal_clause,Causal and result clauses,3,30.211,40.0,0.3333
+IR_Blanton,International Relations,World Politics: Trend and Transformation,grammar,relative_clause_candidate,Relative-clause candidates,16,161.128,100.0,0.75
+IR_Blanton,International Relations,World Politics: Trend and Transformation,grammar,that_complement_candidate,That-clause candidates,0,0.0,0.0,0.0
+IR_Blanton,International Relations,World Politics: Trend and Transformation,grammar,to_infinitive,To-infinitive constructions,23,231.621,100.0,0.8526
+IR_Blanton,International Relations,World Politics: Trend and Transformation,grammar,ing_form_candidate,-ing form candidates,24,241.692,100.0,0.8785
+IR_Blanton,International Relations,World Politics: Trend and Transformation,grammar,existential_there,Existential there,1,10.07,20.0,0.0
+IR_Blanton,International Relations,World Politics: Trend and Transformation,grammar,extraposition_it,Extraposition with it,0,0.0,0.0,0.0
+IR_Blanton,International Relations,World Politics: Trend and Transformation,grammar,negation,Negation,8,80.564,80.0,0.75
+IR_Blanton,International Relations,World Politics: Trend and Transformation,grammar,interrogative,Interrogatives,2,20.141,40.0,0.3876
+IR_Blanton,International Relations,World Politics: Trend and Transformation,grammar,nominalisation_candidate,Nominalisation candidates,65,654.582,100.0,0.8297
+IR_Blanton,International Relations,World Politics: Trend and Transformation,grammar,coordination,Coordination,37,372.608,100.0,0.696
+IR_Blanton,International Relations,World Politics: Trend and Transformation,grammar,endophoric_reference,Endophoric and cross-reference forms,4,40.282,40.0,0.3876
+IR_Blanton,International Relations,World Politics: Trend and Transformation,grammar,reader_reference,Reader reference,0,0.0,0.0,0.0
