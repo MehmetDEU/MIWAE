@@ -13,7 +13,7 @@ The output is evidence for human interpretation. It is **not** an automatic verd
 ```bash
 python -m venv .venv
 source .venv/bin/activate
-pip install -e '.[dev]'
+pip install '.[dev]'
 uvicorn miwae_api.app:app --reload
 ```
 
