@@ -12,4 +12,5 @@ private_data/
 *.pdf
 *.docx
 *.epub
-
+!docs/conference-2026/*.pdf
+!docs/conference-2026/*.docx

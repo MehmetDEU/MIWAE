@@ -75,6 +75,10 @@ This is an extensible interoperability layer, not a claim of an official partner
 
 See [docs/methods.md](docs/methods.md) and [docs/presentation_claims.md](docs/presentation_claims.md).
 
+## Conference materials
+
+The editable presentation, presenter notes, printable framework handout, and PDF handout are archived in [docs/conference-2026](docs/conference-2026/README.md).
+
 ## Data and copyright
 
 The repository excludes copyrighted books, private Text Inspector responses, and student data. Users are responsible for lawful access to source texts and external platforms.
