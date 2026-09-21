@@ -6,6 +6,10 @@ This directory preserves the reusable materials prepared for the presentation **
 
 - `Pragmatic_Considerations_MIWAE_Final_30_Slides_2026-09-20.pptx` is the editable 30-slide presentation. The cover links the MIWAE API repository.
 - `Pragmatic_Considerations_MIWAE_Presenter_Notes_2026-09-20.docx` contains slide-numbered presenter notes and explicit prompts for advancing the slides.
+- `Pragmatic_Considerations_MIWAE_Introduction_Reordered_Working_v1_2026-09-21.pptx` is the separate working deck with the revised introduction sequence.
+- `Pragmatic_Considerations_MIWAE_Introduction_Reordered_Presenter_Notes_v1_2026-09-21.docx` is its matching slide-numbered Word notes.
+- `CONTINUATION_HANDOFF_2026-09-22.md` records the argument, source boundaries, evidence status, and next step for future sessions.
+- `source/` contains the reproducible generation scripts and validation receipt for the introduction-reordered working version.
 - `MIWAE_Framework_and_Coursebook_Fit_Rubric_Handout_2026-09-20.docx` is the editable four-page landscape handout.
 - `MIWAE_Framework_and_Coursebook_Fit_Rubric_Handout_2026-09-20.pdf` is the print-ready version of the handout.
 - `SHA256SUMS.txt` records checksums for verifying the archived files.
