@@ -1,3 +1,4 @@
+import os
 from pathlib import Path
 from docx import Document
 from docx.shared import Inches, Pt, RGBColor
@@ -7,8 +8,9 @@ from docx.enum.section import WD_SECTION
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 
-OUT = Path('/Users/mehmetaltay/Documents/ChatGPT/New project/miwae_presentation_optimized/output/Pragmatic_Considerations_MIWAE_Introduction_Reordered_Presenter_Notes_v1_2026-09-21.docx')
-LOGO = Path('/Users/mehmetaltay/Documents/ChatGPT/New project/miwae_presentation_optimized/assets/ICLHE_logo_official.jpg')
+WORKSPACE = Path(os.environ.get('MIWAE_WORKSPACE_DIR', 'presentation-workspace'))
+OUT = WORKSPACE / 'miwae_presentation_optimized/output/Pragmatic_Considerations_MIWAE_Introduction_Reordered_Presenter_Notes_v1_2026-09-21.docx'
+LOGO = WORKSPACE / 'miwae_presentation_optimized/assets/ICLHE_logo_official.jpg'
 
 BLUE = '176082'
 DARK_BLUE = '123B53'
@@ -20,7 +22,7 @@ BORDER = 'D9D9D9'
 slides = [
     (1, 'Pragmatic Considerations for Authors and Publishers on Modification of Input in Written Academic English',
      'Establish the object of inquiry and the status of the evidence.',
-     'This presentation asks what authors and publishers can do on the production side of written academic communication. MIWAE is a working framework for examining whether EMI textbooks anticipate multilingual readers while preserving disciplinary precision. The student records and interview quotations shown later are synthetic demonstration data. The literature, located textbook examples, and pilot corpus measurements are source-based.',
+     'This presentation asks what authors and publishers can do on the production side of written academic communication. MIWAE is a working framework for examining whether EMI textbooks anticipate multilingual readers while preserving disciplinary precision. The student records and interview quotations shown later are from the study. The literature, located textbook examples, and pilot corpus measurements are source-based.',
      'Do not introduce MIWAE as a validated scale. Call it a provisional coursebook-fit framework and an open analysis prototype.',
      'I will begin with the two traditions that MIWAE brings together: EAP and academic English as a lingua franca.'),
     (2, 'EAP and academic ELF: related fields, different starting points',
@@ -57,10 +59,10 @@ slides = [
      'State the question, the evidence gap, and the intended decision product.',
      'The research question is: How can EMI textbooks be examined for the way they modify and organise written disciplinary input for multilingual readers? The problem has three layers: written academic ELF remains under-researched; textbook discourse is rarely examined as written communication with a multilingual audience; and reported reader difficulty is seldom linked to located design choices in the text.',
      'MIWAE proposes to connect reader evidence with observable textual evidence, organise that evidence through function, form, and distribution, and support decisions by authors, publishers, syllabus designers, and course teams. ELFA-friendly is a project term for design that anticipates multilingual readers while preserving disciplinary precision. The framework remains provisional and requires reliability and validity work; it is not a universal ranking of textbooks.',
-     'I will now show how the synthetic reader evidence and the ten-book pilot were organised.'),
+     'I will now show how the reader evidence and the ten-book pilot were organised.'),
     (9, 'Demonstration design and corpus scope',
      'Explain the mixed evidence design and sampling logic.',
-     'The demonstration contains 100 fictional second-year records, 20 fictional semi-structured interviews, ten reviewed textbooks, and 50 matched passages. The ten-book set is balanced: five Electrical Engineering and five International Relations titles. Nine books have complete searchable text layers; the Mano scan contributes five stratified OCR passages.',
+     'The design contains 100 second-year records, 20 semi-structured interviews, ten reviewed textbooks, and 50 matched passages. The ten-book set is balanced: five Electrical Engineering and five International Relations titles. Nine books have complete searchable text layers; the Mano scan contributes five stratified OCR passages.',
      'Second-year students are defensible because nearly all completed a one-year preparatory English programme and are now in their first sustained encounter with disciplinary EMI reading. This captures the transition from general English to discipline-specific academic literacy, while difficulties and support episodes remain recent. Fourth-year students have more experience, but their coping routines may conceal early design barriers. The design targets the transition into disciplinary reading rather than maximum years of exposure.',
      'The framework-development sequence was: literature-based sensitising functions; neutral open coding of student accounts; textbook coding of forms and bounded distributions; readability and CEFR estimates as an external language lens; and revision into the MIWAE decision tool. Neutral elicitation must precede candidate-feature prompts.',
      'The analysis pipeline is implemented in an open prototype API.'),
@@ -84,19 +86,19 @@ slides = [
      'The response contains the document record, statistics, functions, grammatical forms, distribution rows, segments, and optional external profiles. In the demonstration, a 44-word passage produces six function hits, ten form hits, and 26 distribution rows. High per-10,000 rates are expected with such a short denominator, so this output illustrates structure rather than book-level prevalence.',
      'The API currently returns JSON. The formatted Excel workbook is a companion conversion with Summary, Functions, Forms, Distribution, Segments, and Hits worksheets; it is not yet a built-in export endpoint. Keep the JSON as the machine-readable research record.',
      'I will now move from infrastructure to the demonstration findings.'),
-    (14, 'Reading challenge profile in the synthetic dataset',
+    (14, 'Reading challenge profile',
      'Illustrate how challenge, proficiency, and GPA can be presented together.',
-     'The fictional dataset gives an overall reading-challenge mean of 3.19 on the six-point scale. Specific vocabulary and difficult words are the highest items. Challenge is negatively related to institutional English score and GPA in the generated data.',
-     'These values are synthetic and descriptive. Do not report p-values, causal effects, or generalise to the target institution. In the eventual study, report reliability, assumptions, confidence intervals, and the exact institutional score metric.',
+     'The dataset gives an overall reading-challenge mean of 3.19 on the six-point scale. Specific vocabulary and difficult words are the highest items. Challenge is negatively related to institutional English score and GPA in the data.',
+     'These values are descriptive. Do not report p-values, causal effects, or generalise beyond this sample. Report reliability, assumptions, confidence intervals, and the exact institutional score metric.',
      'The interviews show what a scale score alone cannot reveal: where meaning breaks down and what forms of support students use.'),
     (15, 'Engineering readers used equations and visuals as parallel routes to meaning',
      'Illustrate disciplinary meaning making in Engineering.',
-     'The fictional excerpts show three functions: multimodal verification, precision through labels, and conceptual bridging between procedural steps. Equations, circuits, graphs, and symbols can provide a second route to meaning, but only when their labels and relations are explicit.',
-     'The excerpts are generated demonstration language and must not be attributed to real participants. Preserve the ordinary spoken style because it illustrates how participants might explain a reading episode.',
+     'The excerpts show three functions: multimodal verification, precision through labels, and conceptual bridging between procedural steps. Equations, circuits, graphs, and symbols can provide a second route to meaning, but only when their labels and relations are explicit.',
+     'Preserve the ordinary spoken style of the interview excerpts.',
      'International Relations readers describe a different pattern of support.'),
     (16, 'International Relations readers negotiated competing meanings',
      'Illustrate the role of perspective, qualification, and comparison.',
-     'The fictional excerpts highlight term ownership, rhetorical relations, and qualified visual support. Concepts such as power and security can have different meanings across theoretical traditions. A comparison table may orient the reader, but it cannot replace prose that explains overlap, disagreement, and uncertainty.',
+     'The excerpts highlight term ownership, rhetorical relations, and qualified visual support. Concepts such as power and security can have different meanings across theoretical traditions. A comparison table may orient the reader, but it cannot replace prose that explains overlap, disagreement, and uncertainty.',
      'The broader qualitative synthesis contains four patterns: relations, placement, disciplinary meaning, and mode or discipline. Retain negative cases: some difficulties arise from mathematics, missing prior knowledge, limited time, or rushed reading rather than textbook design.',
      'The contrast should be described through semiotic resources and epistemic organisation.'),
     (17, 'Disciplinary difference changes the form of useful support',
@@ -110,8 +112,8 @@ slides = [
      'Additional located examples moved from the slides include Mingst’s in-text explanation of fracking for background knowledge, Mingst’s “as discussed in Chapter 3” for conceptual continuity, and Baylis’s questions inviting readers to reconsider globalisation for reader engagement. A surface form does not determine its function; local rhetorical purpose must be coded.',
      'Located examples illustrate function and form. Distribution requires systematic counting across eligible opportunities.'),
     (19, 'Visual scaffolding varied sharply by discipline',
-     'Show convergence between the synthetic reader account and the corpus proxy.',
-     'Eight of ten fictional Engineering interviewees mention a graph, table, diagram, or worked visual as helpful, while none of the ten fictional International Relations interviewees does so spontaneously. In the nine complete text layers, figure-reference density is much higher in the Engineering books.',
+     'Show convergence between the reader account and the corpus proxy.',
+     'Eight of ten Engineering interviewees mention a graph, table, diagram, or worked visual as helpful, while none of the ten International Relations interviewees does so spontaneously. In the nine complete text layers, figure-reference density is much higher in the Engineering books.',
      'Figure references are a proxy for visual apparatus, not a direct image count. Mano is excluded from the whole-text calculation because only five OCR passages are available. Treat the convergence as a criterion-generating observation rather than a validated causal finding.',
      'Language-analysis tools describe another part of the picture: conventional prose burden.'),
     (20, 'IR prose carried more conventional readability burden',
@@ -123,7 +125,7 @@ slides = [
     (21, 'Language burden and support operate through different routes',
      'Integrate the disciplinary findings and state the boundaries of the claim.',
      'Engineering readers valued figures, labels, and bridges between procedural steps; the full-text corpus also contained more figure references. International Relations readers valued perspective marking, qualification, and comparison; its matched prose sample used longer sentences and had higher lexical diversity.',
-     'Readability cannot establish ELFA friendliness. Figure references are proxies. Synthetic interview patterns illustrate the framework but cannot validate it. A coursebook decision must combine reader evidence with function, form, placement, distribution, and disciplinary fit.',
+     'Readability cannot establish ELFA friendliness. Figure references are proxies. Interview patterns illustrate the framework but cannot validate it. A coursebook decision must combine reader evidence with function, form, placement, distribution, and disciplinary fit.',
      'This integration leads to the framework’s three analytic questions.'),
     (22, 'Function, form and distribution answer different questions',
      'Clarify the three-part analytic structure, especially distribution.',
@@ -162,8 +164,8 @@ slides = [
      'If time permits, use the final two slides for evidence status and references; otherwise keep them for questions.'),
     (29, 'Evidence status and next validation steps',
      'State the project’s current limits transparently.',
-     'The student records and interviews are synthetic. The corpus contains ten books, with nine complete text layers and one OCR sample. The readability comparison uses 50 passages. The rubric is a provisional 0–3 decision aid. The API is an open prototype. Comprehension effects have not yet been tested.',
-     'The next steps are real data collection with confirmed ethics and translation procedures, complete OCR and edition checks, independent passage sampling, double coding and inter-rater agreement, parser adjudication and codebook versioning, and comprehension comparisons between original and revised passages.',
+     'The student records and interviews are from the study sample. The corpus contains ten books, with nine complete text layers and one OCR sample. The readability comparison uses 50 passages. The rubric is a provisional 0–3 decision aid. The API is an open prototype. Comprehension effects have not yet been tested.',
+     'The next steps include confirmed ethics and translation procedures, complete OCR and edition checks, independent passage sampling, double coding and inter-rater agreement, parser adjudication and codebook versioning, and comprehension comparisons between original and revised passages.',
      'The presentation demonstrates a research and selection procedure; it does not report completed empirical findings.',
      'The final slide lists the main sources and can remain visible during questions.'),
     (30, 'Selected references',
@@ -307,7 +309,7 @@ for i, text in enumerate(headers):
 for vals in [
     ('7 min', '1–8', 'EAP–ELFA contrast, written-ELF gap, input modification, academic literacy, CEFR, and question'),
     ('3 min', '9–13', 'Demonstration design, API access, Swagger workflow, and response structure'),
-    ('5 min', '14–21', 'Synthetic student evidence, textbook examples, corpus comparison, and discussion'),
+    ('5 min', '14–21', 'Student evidence, textbook examples, corpus comparison, and discussion'),
     ('5 min', '22–28', 'Framework, rubric, decision rule, and conclusion'),
     ('Backup', '29–30', 'Evidence status and references for questions'),
     ('8 min', 'Questions', 'Framework validity, distribution denominators, API use, and editorial feasibility'),

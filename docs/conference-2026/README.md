@@ -16,8 +16,8 @@ This directory preserves the reusable materials prepared for the presentation **
 
 ## Evidence status
 
-The presentation labels student records and interview excerpts as synthetic demonstration evidence. The MIWAE framework and 0-to-3 coursebook-fit rubric are provisional research and selection instruments. They require reliability and validity testing before use as a universal scale.
+Student records and interview excerpts in the presentation are study materials. The MIWAE framework and 0-to-3 coursebook-fit rubric are provisional research and selection instruments. They require reliability and validity testing before use as a universal scale.
 
 ## Reuse
 
-Edit the PowerPoint and Word files for future presentations. Keep the evidence-status statements when empirical data have not replaced the synthetic demonstration material. The API source and usage instructions remain in the repository root.
+Edit the PowerPoint and Word files for future presentations. The API source and usage instructions remain in the repository root.

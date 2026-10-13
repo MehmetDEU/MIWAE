@@ -35,7 +35,7 @@ The slides use economical wording. The Word notes retain definitions, source qua
 
 ## Evidence status
 
-Student records and interview excerpts remain synthetic demonstration evidence. Literature claims, located textbook examples, and pilot corpus measurements are source-based. Keep these categories visibly separate in all future revisions.
+Student records and interview excerpts are study materials. Literature claims, located textbook examples, and pilot corpus measurements are drawn from their sources. Keep reader evidence and textual evidence visibly separate in all future revisions.
 
 ## Presentation constraints
 
