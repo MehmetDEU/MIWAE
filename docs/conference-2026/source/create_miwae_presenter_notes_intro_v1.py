@@ -166,7 +166,6 @@ slides = [
      'State the project’s current limits transparently.',
      'The student records and interviews are from the study sample. The corpus contains ten books, with nine complete text layers and one OCR sample. The readability comparison uses 50 passages. The rubric is a provisional 0–3 decision aid. The API is an open prototype. Comprehension effects have not yet been tested.',
      'The next steps include confirmed ethics and translation procedures, complete OCR and edition checks, independent passage sampling, double coding and inter-rater agreement, parser adjudication and codebook versioning, and comprehension comparisons between original and revised passages.',
-     'The presentation demonstrates a research and selection procedure; it does not report completed empirical findings.',
      'The final slide lists the main sources and can remain visible during questions.'),
     (30, 'Selected references',
      'Provide traceability and close the deck cleanly.',

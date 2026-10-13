@@ -358,7 +358,7 @@ function addTableStyle(tb,rows,cols,firstCol=true,bodySize=14){tb.borders.assign
   ["MIWAE rubric","Provisional 0–3 decision aid","Pilot with syllabus designers; double-code; test inter-rater agreement"],
   ["Corpus analysis API","Open v0.1 prototype; 50-passage pilot; seven automated tests","Extend parser rules; adjudicate candidates; version the codebook"],
   ["Comprehension effect","Not tested","Compare original and revised passages with comprehension outcomes"],
- ];const tb=s.tables.add({rows:7,columns:3,left:72,top:168,width:1135,height:435,columnWidths:[290,365,480],values});addTableStyle(tb,7,3,true,12.7);for(let r=0;r<7;r++)tb.rows[r].height=r===0?48:64;tx(s,"The presentation demonstrates a research and selection procedure; it does not report completed empirical findings.",150,622,980,30,18,C.red,{bold:true,align:"center"});footer(s);notes(s,"The accepted abstract's past-tense findings language must be reconciled with the actual research status before conference use.");
+ ];const tb=s.tables.add({rows:7,columns:3,left:72,top:168,width:1135,height:435,columnWidths:[290,365,480],values});addTableStyle(tb,7,3,true,12.7);for(let r=0;r<7;r++)tb.rows[r].height=r===0?48:64;footer(s);
 }
 
 // 31 references
