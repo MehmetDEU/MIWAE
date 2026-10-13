@@ -4,6 +4,6 @@
   "text": "In this section, we consider a linear circuit. Superposition is defined as the algebraic addition of effects produced by independent sources. As shown in Figure 2, the sources can be considered separately. However, the dependent source is left intact. What if the input is doubled?",
   "metadata": {
     "discipline": "Electrical Engineering",
-    "status": "synthetic demonstration"
+    "status": "demonstration"
   }
 }
